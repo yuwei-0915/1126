@@ -1,0 +1,25 @@
+@charset "utf-8";
+.container header {
+    background-color: #FA6467;
+}
+.container header nav {
+    background-color: #C84B4D;
+}
+.container #hero {
+}
+.container #about {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(213,71,71,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(213,71,71,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(213,71,71,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(213,71,71,1.00) 100%);
+}
+.container #hero {
+    background-image: url(images/parallax.png);
+}
+.container #contact {
+    background-image: url(images/%E4%B8%8B%E8%BC%89.jpg);
+}
+.container .copyright {
+    background-image: url(url);
+    background-color: #B84244;
+}
